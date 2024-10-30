@@ -275,7 +275,7 @@ CompletableFuture는 자바에서 제공하는 비동기 프로그래밍 도구�
         }
     ```
 
-    - 이메일 발송 결과로 CompletableFuture<Email> 객체를 반턴합니다.
+    - 이메일 발송 결과로 CompletableFuture<Email> 객체를 반환합니다.
     - 이메일 발송에 성공한 경우 Email 엔티티의 isSucceed 필드를 true로, 실패한 경우에는 false로 설정합니다.
 
 
