@@ -556,5 +556,6 @@ Awaitility를 사용하면 설정한 시간 내에 특정 조건을 만족할 �
 - [퍼사드 패턴](https://ko.wikipedia.org/wiki/%ED%8D%BC%EC%82%AC%EB%93%9C_%ED%8C%A8%ED%84%B4)
 - [Java Docs - CompletableFuture](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CompletableFuture.html)
 - [모던 자바 인 액션 - CHAPTER 16 CompletableFuture : 안정적 비동기 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B4926602499)
+- [MultipartFile](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/multipart/MultipartFile.html)
 - [Why do I get NoSuchFileException when using multipartFile @Async in java spring boot?](https://stackoverflow.com/questions/77620046/why-do-i-get-nosuchfileexception-when-using-multipartfile-async-in-java-spring)
 - [Awaitility](http://www.awaitility.org/)
